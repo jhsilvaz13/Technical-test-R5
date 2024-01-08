@@ -9,6 +9,7 @@ Then you need to install the requirements, follow:
 pip install -r requirements.txt
 ```
 Finally you can run the notebooks.
-
-## Report 
-The report of the evaluation is in the folder report, you can see it Data quality report.pdf or click [here](https://drive.google.com/file/d/1GJ9xbDLBGlz8LRFiC-C7J0z8f1CvIjEM/view?usp=sharing)
+## First part: Data format
+In the notebook ***case.QA.taylor.spotify.api.extract.ipynb*** you can see the process to convert the data from json to csv. In the folder ./data/results you can see the results of the process.
+## Second part: Report 
+The report of the evaluation of data quality is in the folder ***report***, you can see it ***Data quality report.pdf*** or click [here](https://drive.google.com/file/d/1GJ9xbDLBGlz8LRFiC-C7J0z8f1CvIjEM/view?usp=sharing). And you can see the notebooks if you want to see the process with pyton libraries.
